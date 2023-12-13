@@ -41,7 +41,8 @@
 				"java.autobuild.enabled": true,
 				"files.trimTrailingWhitespace": true,
 				"java.saveActions.organizeImports": true,
-				"java.configuration.updateBuildConfiguration": "automatic"
+				"java.configuration.updateBuildConfiguration": "automatic",
+				"extensions.verifySignature": false
 			},
 			"extensions": [
 				"vscjava.vscode-java-pack",
@@ -55,4 +56,3 @@
 	},
 	"remoteUser": "root"
 }
-  
